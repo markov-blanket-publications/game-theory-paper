@@ -1,2 +1,5 @@
 # game-theory-paper
-Game theory has succeeded in many domains but it is worth investigating its failure in its original domain of application. 
+
+Since game theory came into being in 1944 with Von Neumann’s publication of ‘The Theory of Games and Economic Behaviour’, it has been applied to a large range of disciplines with varying degrees of success but it is worth noting its abysmal failure in its original domains of application: international relations and the field of economics. The reasons for this failure are two-fold. First, game-theoretic analyses of human relations rest upon flawed assumptions of a psychological nature that aren’t constrained by psychological evidence. Second, any axiomatisation of human behaviour would need to summarise advanced knowledge of embodied cognition(i.e. complex quantitative relationships between psychology and physiology) that resists the axiomatisation process.
+
+For these reasons, the author recommends that scalable approaches to experimental psychology(rather than game theory) be used to inform domestic policy not least because internal threats are often under-estimated.
